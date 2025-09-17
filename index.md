@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Welcome Home!
-excerpt: This is a test excerpt
+excerpt: Welcome to the homepage for Heimburglandia
 header:
     overlay_image: /assets/images/trees.jpg
     actions:
