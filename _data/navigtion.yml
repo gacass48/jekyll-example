@@ -3,3 +3,4 @@ main:
     url: /about
   - title: "History"
     url: /history
+    target: _blank
