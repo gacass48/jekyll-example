@@ -11,4 +11,6 @@ Unsurprisingly, Disc Golf is the most popular pursuit of Heimburglandia resident
 
 Heimburglandia residents often grill using their Rec Tec Grills, the sponsor of the 2019 National Tour Finale. The grilling is a great community activity that brings the town together and refuel after a great round of disc golf.
 
-## 
+## Collecting Rocks
+
+Like Calvin, Heimburlandians are obsessed with rocks and seach all over town for them, come check out some cool finds.

@@ -9,6 +9,10 @@ Heimburglandia offers a range of tasty food options that can be found all over t
 
 A staple of Heimbuglandia due to his pizza style putt, the signature element of italian cusine can be found across the village.
 
+![Pizza](assets/images/pizza.jpg)
+
+Photo Credit: theRealCheimborg parody instagram account, October 2022
+
 ## Alligator
 
 Another signature cusine of Heimburglandia, based on Calvin's Floridian origins, Alligator is available at several locations across the settlement.
