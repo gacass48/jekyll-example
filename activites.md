@@ -20,3 +20,5 @@ Heimburglandia residents often grill using their Rec Tec Grills, the sponsor of 
 Like Calvin, Heimburlandians are obsessed with rocks and seach all over town for them, come check out some cool finds.
 
 ![Calvin looking at rocks](/assets/images/rocks.jpg)
+
+Photo Credit: theRealChiemborg, Instagram, Calvin's rock tour
