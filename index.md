@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Welcome to Heimburglandia
-excerpt: Welcome to the homepage for Heimburglandia
+excerpt: Welcome to the Homepage for Heimburglandia
 header:
     overlay_image: /assets/images/trees.jpg
     actions:
@@ -10,4 +10,4 @@ header:
     overlay_filter: rgba(79, 99, 82, 0.5)
 ---
 
-# This is the home of Calvin Heimburg fans
+# This is the Home of Calvin Heimburg fans
